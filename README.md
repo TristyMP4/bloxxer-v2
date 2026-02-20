@@ -1,1 +1,1 @@
-`loadstring(game:HttpGet("https://raw.githubusercontent.com/TristyMP4/bloxxer-v2/refs/heads/main/loader.lua"))()`
+``loadstring(game:HttpGet("https://raw.githubusercontent.com/TristyMP4/bloxxer-v2/refs/heads/main/loader.lua"))()``
