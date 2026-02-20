@@ -1,5 +1,4 @@
-Roblox script supporting a few games.
-
+Roblox Script Hub supporting a few games.
 Loadstring:
 
 ```
