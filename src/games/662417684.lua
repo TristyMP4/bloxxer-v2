@@ -1,4 +1,5 @@
 local Fluent, Tabs = ...
+print("ran")
 
 local Window = Fluent:CreateWindow({
     Title = "BloxxerHub",
