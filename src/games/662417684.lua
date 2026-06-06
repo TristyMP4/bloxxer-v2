@@ -9,10 +9,3 @@ local Window = Fluent:CreateWindow({
     Theme = "Dark",
     MinimizeKey = Enum.KeyCode.LeftControl
 })
-
-Tabs.Game:AddButton({
-    Title = "Test Button",
-    Callback = function()
-        print("Hello!")
-    end
-})
