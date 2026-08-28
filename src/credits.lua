@@ -1,7 +1,7 @@
 local Tab = ...
 Tab:AddParagraph({
     Title = "Developer",
-    Content = "bloxxer101104 / trizzy"
+    Content = "bloxxer101104"
 })
 
 Tab:AddParagraph({
