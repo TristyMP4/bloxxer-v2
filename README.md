@@ -1,0 +1,10 @@
+# Roblox Script Hub supporting a few games.
+> V2 is in the works..
+
+Currently uses a key system as it isn't exactly ready for public use!
+
+**Loadstring:**
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TristyMP4/bloxxer-v2/refs/heads/main/loader.lua"))()
+```
