@@ -1,14 +1,3 @@
---[[
- .____                  ________ ___.    _____                           __                
- |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
- |    |   |  |  \__  \   /   |   \| __ \   __\  |  \/  ___// ___\\__  \\   __\/  _ \_  __ \
- |    |___|  |  // __ \_/    |    \ \_\ \  | |  |  /\___ \\  \___ / __ \|  | (  <_> )  | \/
- |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
-         \/          \/         \/    \/                \/     \/     \/                   
-          \_Welcome to LuaObfuscator.com   (Alpha 0.10.9) ~  Much Love, Ferib 
-
-]]--
-
 local v0=string.char;local v1=string.byte;local v2=string.sub;local v3=bit32 or bit ;local v4=v3.bxor;local v5=table.concat;local v6=table.insert;local function v7(v20,v21) local v22={};for v33=1, #v20 do v6(v22,v0(v4(v1(v2(v20,v33,v33 + 1 )),v1(v2(v21,1 + (v33% #v21) ,1 + (v33% #v21) + 1 )))%256 ));end return v5(v22);end local v8,v9=...;local v10=game:GetService(v7("\229\198\215\32\246\180\213\10\226\198\201\51\239\184\194","\126\177\163\187\69\134\219\167"));local v11=game:GetService(v7("\19\193\43\220\249\49\222","\156\67\173\74\165"));local v12=getgenv();v12.AutoRejoin=v12.AutoRejoin or false ;v12.AutoExecute=v12.AutoExecute or false ;local function v15() local v23=0 -0 ;local v24;while true do if (v23==(0 -0)) then v24=string.format([[
         getgenv().AutoRejoin = %s
         loadstring(game:HttpGet("https://raw.githubusercontent.com/TristyMP4/bloxxer-v2/refs/heads/main/loader.lua"))()
