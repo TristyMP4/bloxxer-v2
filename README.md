@@ -1,5 +1,5 @@
 # Roblox Script Hub supporting a few games.
-> V2 is in the works..
+> Completely reworked from the ground up
 
 Currently uses a key system as it isn't exactly ready for public use!
 
