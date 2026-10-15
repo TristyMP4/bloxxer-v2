@@ -5,7 +5,7 @@
 local VibeUI = ...
 
 local Config = {
-    Title = "BloxxerHub - V2.0.2",
+    Title = "BloxxerHub - V2.0.6",
 
     -- News Ticker Settings
     Ticker = {
@@ -18,7 +18,7 @@ local Config = {
         Separator = "   |   ",             -- Separator between messages
         Messages = {
             "Welcome to BloxxerHub!",
-            "Update 2.1: Added Operation One support; still in development!",
+            "Update 2.06: Operation One: Added TriggerBot & Bug Fixes",
             "have fun!",
         }
     }
