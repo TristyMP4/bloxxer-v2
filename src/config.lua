@@ -5,13 +5,12 @@
 local VibeUI = ...
 
 local Config = {
-    -- Window / Hub Title
     Title = "BloxxerHub - V2.0.2",
 
     -- News Ticker Settings
     Ticker = {
-        Enabled = true,                    -- Set to false to hide the ticker completely
-        Tag = "NEWS",                      -- Badge text on the left (e.g. "NEWS", "ANNOUNCEMENT", "UPDATE")
+        Enabled = true,
+        Tag = "NEWS", 
         Side = "Top",                      -- "Top" or "Bottom"
         Speed = 80,                        -- Scroll speed (pixels per second)
         Width = 480,                       -- Width of the ticker bar
